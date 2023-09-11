@@ -1,1 +1,2 @@
 # hello-again-2
+Hello-again, my name is Lee Chen, I created my GitHut account 3 years ago just for fun. I recently decided to study and become proficient in data science. Now after 4 months, I have almost done with the Data Scientist in Python path with Dataquqest. I have completed quite a few projects along the way and will polish them up and start to post them on my account. I hope I can work on some collabrative project and make some connections in the wide big world of data science.
